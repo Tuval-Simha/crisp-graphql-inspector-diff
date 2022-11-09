@@ -1,0 +1,1 @@
+# crisp-graphql-inspector-diff
